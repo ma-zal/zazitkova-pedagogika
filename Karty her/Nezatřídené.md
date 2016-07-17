@@ -2,12 +2,6 @@ Nezatříděné hry
 ===============
 
 
-Duel s kelímky vody
--------------------
-
-Dva sedí proti sobě. Tahají karty. Kdo vytáhne vyšší, ten vezme kelímek s vodou a hodí ji protivníkovi do obličeje. Kdo získá takto 4 body, vyhrál.
-
-
 Štafetá souložení balónků
 -------------------------
 
@@ -112,20 +106,6 @@ Bingo
 Klasická hra bingo. Děti si vyplní prázné pole 5x5 náhodnými čísly 1-75. Losují se čísla, dokud někdo nemá všechna pole (všech 25) vyškrtáno.
 
 
-Transfúze
----------
-
-Děti rozděleny na skupiny. Na jedné straně jsou láhve s krví (obarvená voda). Cílem je dopravit krev k pacientovi  na druhou stranu hrací plochy pomocí injekčních stříkaček. Mezi krví a pacientem (cílem) jsou "viry", tedy osoby, které se snaží krev znehodnotit. Znehodnocení spočívá v postříkání přenašečů krve vodou z injekční stříkačky.
-
-
-Pašeráci
---------
-
-Dvě skupiny. První se snaží propašovat zvířata (papírky s názvy zvířat a jejich cenou). Ceny zvířat se liší, aby bylo možné např protíhráče zmást. Pašeráci mohou papírek schovat v oděvu (předem stanovit, kam lze a kam ne). Druhá skupina (celnící) je snaží při přenášení k cíli zastavit (dotykem ruky).   Pak je chycený pašerák prohledán (požádan, aby si část oděvu sundal, apod.). Na jednu cestu lze pašovat max 2 zvířata. Na začátku musí stát prodejci zvířat, kteří nabízejí a na konci kupci, kteří přebírají zvířátka. Celníci se nesmí pohybovat blízko prodejcům, ani prodejcům – aby nemohli vidět, kam si pašeráci schovávají papírky.
-
-Vyhrává skupina, která má po časovém limitu (10-20 minut) zvířata za vyšší cenu, vyhrává.
-
-
 Latrína
 -------
 TODO ...dopsat popis
@@ -199,25 +179,10 @@ Všímej si dobře (vhodné na cesty)
 Vedoucí vyzve děti, aby si co nejvíce všímali svého okolí. Po nějaké době se pak ptá na otázky  typu "jaký nápis byl na směrovce na minulé křižovatce", apod. Děti zapisují své odpovědi do sešitu.  Výsledky se pak bodují.
 
 
-Lístečky s čísly
-----------------
-
-Do prostoru se rozmístí dostatečný počet lístečků s po sobě jdoucímí čísly – např 1-99. Děti jsou rozděleny na skupiny. Vždy na povel vybíhá jedno dítě z každé skupiny a má za úkol najít číslo splňující aktuálně danou podmínku (například dělitelnost něčím, či nějaké číslo na konci, či dvě stejné číslice, apod). Která skupina se stihna s lístkem vrátit rychleji, má bod. Po chvíli zavelíme, že  úkolem je vyzbírat všechny čísla (všechny děti najednou).
-Potom necháme každou skupinu vytvořit skupiny čísel jdoucích po sobě (dále je vhodné mít alespoň 3 skupiny dětí). Za každou trojici je bod, čtveřici 2 body, pětici 3 body, atd. Děti dostanou za úkol takto získat co nejvíc bodů s tím, že mohou s jinými skupinami domlouvat výhodné výměny lístků.
-
-
 Kurýr
 -----
 
 Dětem se předá zpráva, kterou mají za úkol jako první předat jiné osobě v táboře. Osobu samozřejmě musí najít, protože se nedozví, kde je. (taková rychlovka na proběhnutí).
-
-
-Zající a psi
-------------
-
-Nutno ohraničit hrací plochu (kus lesa).
-4 hráči představující zajíce odejdou napřed do terénu. Označení jsou šátky.
-O chvíli později odejte zbytek hráčů představující pry. Psi se snaží pochytat zajíce. Zajíc je chyce, když se ho dotknou dva psi současně. Proto psi honí ve dvojici. Podaří-li se prům ve stanovené době zajíc pochytat, vyhrávají, jinak vítězí zajíci.
 
 
 Boj o poklad, či vlajky
@@ -233,7 +198,9 @@ Další variantou je mít pro každou skupinu jeden poklad. Skupiny pak musí z�
 Osvobození zajatci
 ------------------
 
-Vymezíme kruh o průměru 25 metrů. Skupiny se dělí na útočníky a obránce. Obránci do kruhu sami nesmějí, jen když vedou zajatce ze skupiny útočníků. Útočník je zajat, když se ho obránce dotkne a pak dovede do středu kruhu. Zajatec může být vysvobozen jiným útočníkem, který se dostane do středu a dotkne se ho pak vyvede na určené místo.
+Vymezíme kruh o průměru 25 metrů. Skupiny se dělí na útočníky a obránce. Obránci do kruhu sami nesmějí,
+jen když vedou zajatce ze skupiny útočníků. Útočník je zajat, když se ho obránce dotkne a pak dovede do středu kruhu.
+Zajatec může být vysvobozen jiným útočníkem, který se dostane do středu a dotkne se ho pak vyvede na určené místo.
 Za zajatce jsou 3 body, za osvobození zajatce 10 bodů
 
 
@@ -259,14 +226,6 @@ Zlepšení: V každé skupině mohou existovat démoni, kteří mají vodní st�
 Obdélníkové hřiště rozdělíme čárou na dvě poloviny. Asi 2m od střední čáry vyznačíme na obou stranách startovní čáry, na nichž stojí (klečí, sedí, leží) čelem  sobě dvě družstva. Vedoucí střídavě náhodně vyvolává jednu z barev. Toto družstvo má za úkol okamžitě se zvednout a dotykem zajmout někoho z druhého družstva. To musí zase co nejrychleji utéct za okraj hřiště.
 Kdo je zajat, vypadává ze hry. Kdo má na konci více hráčů, vyhrává. Hrát se dá též na body, zajatci se pak vrací zpět.
 
-
-Vyvolávání čísel
-----------------
-
-Dvě družstva, každé v zástupu. Každý v družsvu má své číslo. Vedoucí náhodně vyřkne číslo. Hráči z každého družstva s daným číslem mají za úkol oběhnout co nejrychleji své družstvo a vrátit se zpět. Které družstvo to zvládne rychleji, má bod.
-Místo obíhání je možné naznačit před hráčí ve vzdálenosti 10-15m metu, ke které musejí doběhnout a vrátit se zpět.
-Štafety
-Klasická štafeta družstev k metě a zpět s nějakou podmínkou (běhání po jedné noze, bokem, apod.)
 
 Noční hry
 =========
@@ -555,12 +514,6 @@ postav nejlepsi stavbu s určenými staveními materiály a prvky - např špejl
 Rozvátá zpráva
 --------------
 
-
-Čtverec s lanem
----------------
-
-Lano se spojeno konci k sobě (do velkého oka). Zavázat všem oči, pak se chytnou lana.
-Jejích úkolem je udělat na zemi z lana čtverec.
 
 
 Šisky v lese

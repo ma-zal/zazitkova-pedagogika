@@ -81,16 +81,16 @@ Obdélníkové hřiště rozdělíme čárou na dvě poloviny. Asi 2m od středn
 Kdo je zajat, vypadává ze hry. Kdo má na konci více hráčů, vyhrává. Hrát se dá též na body, zajatci se pak vrací zpět.
 
 
-Vyvolávání čísel
-----------------
-Dvě družstva, každé v zástupu. Každý v družsvu má své číslo. Vedoucí náhodně vyřkne číslo. Hráči z každého družstva s daným číslem mají za úkol oběhnout co nejrychleji své družstvo a vrátit se zpět. Které družstvo to zvládne rychleji, má bod.
+Štafety s vyvolávání čísel
+--------------------------
+
+Dvě družstva, každé v zástupu. Každý v družsvu má své číslo. Vedoucí náhodně vyřkne číslo. Hráči z každého družstva 
+s daným číslem mají za úkol oběhnout co nejrychleji své družstvo a vrátit se zpět. 
+Které družstvo to zvládne rychleji, má bod.
 
 Místo obíhání je možné naznačit před hráčí ve vzdálenosti 10-15m metu, ke které musejí doběhnout a vrátit se zpět.
 
-
-Štafety
--------
-Klasická štafeta družstev k metě a zpět s nějakou podmínkou (běhání po jedné noze, bokem, apod.)
+Před vyvoláním čísla je možné určit vždy nějakou další podmínku: běhání po jedné noze, bokem, apod.
 
 
 Elektřina

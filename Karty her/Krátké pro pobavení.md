@@ -16,3 +16,10 @@ Hru můžete doplnit legendou, např. balónek je ve skutečnosti bomba a když 
 Zdroj: https://www.hranostaj.cz/hra4007
 
 
+Duel s kelímky vody
+-------------------
+
+Dva sedí proti sobě. Tahají karty. Kdo vytáhne vyšší, ten vezme kelímek s vodou a hodí ji protivníkovi do obličeje.
+Kdo získá takto 4 body, vyhrál.
+
+Abychom předešli tomu, že se děti při prohře urazí, je dobré pro začátek určit u dětí dvojice, kteří jsou dobří přátelé.
