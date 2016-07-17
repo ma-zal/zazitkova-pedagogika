@@ -92,3 +92,13 @@ Místo obíhání je možné naznačit před hráčí ve vzdálenosti 10-15m met
 -------
 Klasická štafeta družstev k metě a zpět s nějakou podmínkou (běhání po jedné noze, bokem, apod.)
 
+
+Elektřina
+---------
+
+Několik skupin (často 2). Poslední spouštějí elektřinu stisknutím ruky (nebo složitěji lalůčku levého nebo pravého ucha). 
+Na konci se například hází kostkou. Padne-li liché číslo, elektřina se posílá. Pokud sudé, nesmí se poslat.
+
+Bod získává ten, kdo do cíle dorazí rychleji. Záporný bod za falešné zaslání.
+
+
