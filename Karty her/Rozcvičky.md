@@ -102,3 +102,26 @@ Na konci se například hází kostkou. Padne-li liché číslo, elektřina se p
 Bod získává ten, kdo do cíle dorazí rychleji. Záporný bod za falešné zaslání.
 
 
+Tunelování
+----------
+
+Štafeta 5-8 lidí. Všichni začínají vedle sebe ve sporu ležmo (plunk). Vzniklým tunelem musí poslední prolézt - tedy
+přesunout se z jedné strany tunelu na druhou. Takto musí prolézt celá skupinka.
+ 
+Poznámka: Lidé mohou být ve sporu dále od sebe, nebo mohou utvořit celistvý tunel.
+
+Zdroj: Hry do kapsy 1
+
+
+Gordický uzel
+-------------
+
+Skupina utvoří kruh. Všichni zavřou oči a dají ruce dopředu do středu. Pak se chytnou náhodné ruky. Tím vytvoří jeden
+nebo více kruhů. Po otevření očí mají za úkol se rozplézt bez toho, aby se pustitli. Hráči mohou měnit způsob držení se,
+nesmí ale při tom ztratit vzájemný kontakt.
+
+
+Závin
+-----
+
+Utvoříme kruh 10-20 lidí. Kruh rozpojíme. Jeden konec je pevný bod. Zbytek musí začít obíhat a provaz "namotat".

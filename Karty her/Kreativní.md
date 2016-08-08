@@ -2,14 +2,6 @@ Hry na kreativitu a spolupráci
 ==============================
 
 
-Pustý ostrov
-------------
-
-Skupinka má vymyslet během 5ti minut společně tři věci, které by si vzali na pustý ostrov. Následně rozhodnutí pak musejí a před ostatními obhájit.
-
-Po hře je vhodné udělat krátkou zpětnou vazbu.
-
-
 Doplňovačka
 -----------
 
