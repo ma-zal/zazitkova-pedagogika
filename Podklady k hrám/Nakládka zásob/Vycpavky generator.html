@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body {margin: 0; }
+@page {
+    margin: 0;
+}
+.kosticka {
+	width: 4cm;
+	height: 4cm;
+	display: inline-block;
+	position: relative;
+	border: 0.1mm solid #666;
+	margin-right: -0.1mm;
+	margin-bottom: -0.1mm;
+}
+
+.puntik {
+	position: absolute;
+	border-radius: 5mm;
+	width: 5mm;
+	height: 5mm;
+	margin: -2.6mm;
+	border: 0.1mm solid #666;
+}
+.puntik1 { 
+	top: 5mm;
+	left: 20mm;
+} 
+.puntik2 { 
+	bottom: 5mm;
+	left: 20mm;
+} 
+.puntik3 { 
+	top: 20mm;
+	left: 5mm;
+} 
+.puntik4 { 
+	top: 20mm;
+	right: 5mm;
+}
+.barva1 { background: #f44; }
+.barva2 { background: #0d0; }
+.barva3 { background: #66f; }
+.barva4 { background: yellow; }
+/*.barva5 { background: white; }*/
+
+#container {
+	max-width: 21cm;
+}
+.page {
+	page-break-inside: avoid;
+	text-align: center;
+	padding-top: 5mm;
+	font-size: 0;	
+}
+	
+.control {
+	margin: 2em 0;
+	text-align: center;
+}
+	@media print {
+		.control {
+			display: none;
+		}
+	}
+</style>
+	<script type="text/javascript">
+	var barvyRandom = [
+	    "barva1",
+		"barva2",
+		"barva3",
+		"barva4"
+//		"barva5"
+	];
+	
+		function generate() {
+		    var html = '<div class="page">';
+		    for (var i = 0; i < 35; i++) {
+		        html += '<div class="kosticka">';
+				for (var j = 1; j <= 4; j++) {
+				    var color = barvyRandom[Math.floor(Math.random() * barvyRandom.length)];
+					html += '<div class="puntik puntik'+j+' '+color+'"></div>';
+				}
+				html += '</div>';
+            }
+			html += '</div>';
+            document.getElementById('container').innerHTML += html;
+        }
+	</script>
+</head>
+<body>
+<div class="control">
+	<button onclick="generate()">Generuj stranku vycpavek</button>
+	<br/><br/>
+	<p>Důležité: Před tiskem nastavte okraje stránky na nulu.</p>
+</div>
+<div id="container">
+</div>
+
+
+</body>
+</html>
